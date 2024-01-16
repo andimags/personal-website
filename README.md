@@ -1,16 +1,15 @@
-### Hi there 👋
+# andimags
 
-<!--
-**andimags/andimags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My first personal website developed with HTML, CSS, vanilla JS, and Bootstrap for media queries.
 
-Here are some ideas to get you started:
+## Screenshots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="screenshot.png" width="500">
+
+## Demo
+
+https://andimags.github.io/andimags/
+
+## 🚀 About Me
+Backend developer with an IT degree, proficient in PHP (Laravel), CSS (Bootstrap), and JavaScript. Expert in API integration and database management, showcasing strong problem-solving skills. Passionate about continuous learning and adaptable to emerging technologies. Let's code the future! 🚀💻
+
