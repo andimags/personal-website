@@ -4,7 +4,7 @@ My first personal website developed with HTML, CSS, vanilla JS, and Bootstrap fo
 
 ## Screenshots
 
-<img src="screenshot.png" max-width="300">
+<img src="screenshot.png" width="300">
 
 ## Demo
 
